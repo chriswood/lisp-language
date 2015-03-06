@@ -2,7 +2,7 @@
   "name": "language-lisp",
   "version": "0.0.0",
   "description": "lisp syntax package",
-  "repository": "https://github.com/atom/language-lisp",
+  "repository": "https://github.com/chriswood/language-lisp",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
