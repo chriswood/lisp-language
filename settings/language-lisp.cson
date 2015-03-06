@@ -1,0 +1,5 @@
+".source.lisp":
+  editor:
+    increaseIndentPattern: "^.*\\(.*[^)\"]$"
+    foldEndPattern: "\\)"
+    commentStart: "; "
